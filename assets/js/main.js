@@ -215,5 +215,6 @@ $("form").submit(function(e){
   }
 
 console.log("Probability to get the car if you switch after 2nd choice is 2/3")
+console.log("Douglas Deutsch & Kate Carnevale");
 
 });
