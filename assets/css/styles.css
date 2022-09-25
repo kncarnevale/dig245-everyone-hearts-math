@@ -1,2 +1,17 @@
 
 /* css */
+
+h1{
+  color:red;
+  font-weight:bold;
+  text-align: center;
+  font-size: 80px;
+  font-family: cursive;
+}
+span{
+  font-weight:bold;
+  font-family: cursive;
+}
+section{
+  text-align: center;
+}
